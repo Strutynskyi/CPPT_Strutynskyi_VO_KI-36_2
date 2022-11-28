@@ -1,0 +1,28 @@
+[2022-10-27 at 23:38:41 EEST] Logger start to work
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer constructor called
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] Logger start to work
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer constructor called
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer AddSong method was called
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer AddSong method was called
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer AddSong method was called
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer AddSong method was called
+[2022-11-28 at 19:20:21 EET] [INFO] AudioPlayer AddSong method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2022-11-28 at 19:20:21 EET] [INFO] TurnPrevNextSong Dictaphone method was called
